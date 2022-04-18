@@ -9,12 +9,14 @@ Exploratory Data Analysis<br/>
 * Data Analysis (Q/A)
 * Data Transformation for dashboard visualization
 <br/>
+
 ### Dashboard<br/>
 * Overview: listings, accomodations available, average price($), average rating, and total reviews info per borough
 * Filtering: Giving the options to find the desired location and attaching the links to the website for more details
 * Key Insights: Displaying the insights on the boroughs, room types, prices, reviews, and hosts
 * Superhosts v Non Superhosts: Figuring out the edge of superhosts
 <br/>
+
 ### Tech Stack<br/>
 * Excel
 * SQL (SQL Server Management Studio)
