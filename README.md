@@ -2,6 +2,7 @@
 Exploratory Data Analysis<br/>
 [Tableau](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1) <br/>
 [SQL](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql) <br/>
+[Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb) <br/>
 
 ### Viewing the data<br/>
 * Querying in SSMS (SQL Server Management Studio) using self joins, temp tables, procedures, group by to view the data required<br/>
