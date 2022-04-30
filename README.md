@@ -5,7 +5,7 @@ Exploratory Data Analysis<br/>
 [Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb) <br/>
 
 ### Viewing the data<br/>
-* Querying in SSMS (SQL Server Management Studio) using self joins, temp tables, procedures, group by to view the data required<br/>
+* Querying in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required<br/>
 * Data Cleaning
 * Data Analysis (Q/A)
 * Data Transformation for dashboard visualization<br/>
