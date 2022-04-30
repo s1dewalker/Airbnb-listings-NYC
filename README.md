@@ -22,3 +22,4 @@ Exploratory Data Analysis<br/>
 * Tableau
 * Figma
 * Mapbox
+* Python (pandas, seaborn, matplotlib)
