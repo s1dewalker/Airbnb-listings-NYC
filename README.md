@@ -2,7 +2,7 @@
 <br/>
 
 Exploratory Data Analysis<br/>
-[Tableau](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home2)) <br/>
+[Tableau](https://public.tableau.com/views/AirbnbListingsNewYorkCity/Home2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br/>
 [SQL](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql) <br/>
 [Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb) <br/>
 
